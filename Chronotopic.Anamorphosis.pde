@@ -3,6 +3,7 @@
 //https://vimeo.com/1163538
 //Source Code:
 //https://processing.org/discourse/beta/num_1213382538.html
+//Also called Slit Scan - http://www.flong.com/texts/lists/slit_scan/
 
 import processing.video.*;
 MovieMaker movie;
